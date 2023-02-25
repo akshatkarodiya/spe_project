@@ -1,4 +1,4 @@
-import org.example.ScientificCalculator;
+import org.project.ScientificCalculator;
 import org.junit.Test;
 import static org.junit.Assert.assertEquals;
 
