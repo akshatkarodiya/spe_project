@@ -1,8 +1,12 @@
 package org.project;
-
+import org.apache.logging.log4j.LogManager;
+import org.apache.logging.log4j.Logger;
 import java.util.Scanner;
 
 public class ScientificCalculator {
+    private static final Logger logger = LogManager.getLogger(ScientificCalculator.class);
+
+    public ScientificCalculator() {}
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         ScientificCalculator scientificCalculatorObj = new ScientificCalculator();
@@ -37,23 +41,55 @@ public class ScientificCalculator {
         }
     }
     public double squareRoot(int number) {
-       double result = Math.sqrt(number);
-       return result;
+        logger.info("[SQ ROOT] - " + number);
+        double result =0;
+        try {
+            if(number<0) {
+                result = Double.NaN;
+                throw new ArithmeticException("Case of Nan 0.0/0.0");
+            }
+            else {
+                result = Math.sqrt(number);
+            }
+        }
+        catch (ArithmeticException exception) {
+            System.out.println("[EXCEPTION - LOG] - Cannot find square root of negative numbers " + exception.getLocalizedMessage());
+        }
+
+        logger.info("[RESULT - SQ ROOT] - " + result);
+        return result;
     }
     public double power(int a,int b) {
+        logger.info("[POWER of  " + a + " TO THE ] " + b);
         double result = Math.pow(a,b);
+        logger.info("[RESULT  POWER]  " + result);
         return result;
     }
     public double log(int number) {
-        double result = Math.log(number);
+        logger.info("[NATURAL LOG] - " + number);
+        double result =0;
+        try{
+        if(number<0) {
+            result = Double.NaN;
+            throw new ArithmeticException("Case of Nan 0.0/0.0");
+        }
+        else {
+            result = Math.log(number);
+        }
+        }
+        catch (ArithmeticException exception) {
+            System.out.println("[EXCEPTION - LOG] - Cannot find log of negative numbers " + exception.getLocalizedMessage());
+        }
+        logger.info("[RESULT - NATURAL LOG] - " + result);
         return result;
     }
     public int factorial(int number) {
+        logger.info("Factorial =  " + number);
         int result =1,i;
         for(i=2;i<=number;i++) {
             result*=i;
         }
-
+        logger.info("RESULT - FACTORIAL = " + result);
         return result;
     }
 }

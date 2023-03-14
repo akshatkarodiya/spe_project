@@ -1,0 +1,64 @@
+2023-03-14 23:57:04.219 [main] INFO  org.project.ScientificCalculator - [SQ ROOT] - 9
+2023-03-14 23:57:04.221 [main] INFO  org.project.ScientificCalculator - [RESULT - SQ ROOT] - 3.0
+2023-03-14 23:57:04.221 [main] INFO  org.project.ScientificCalculator - [SQ ROOT] - 16
+2023-03-14 23:57:04.222 [main] INFO  org.project.ScientificCalculator - [RESULT - SQ ROOT] - 4.0
+2023-03-14 23:57:04.222 [main] INFO  org.project.ScientificCalculator - [NATURAL LOG] - 10
+2023-03-14 23:57:04.223 [main] INFO  org.project.ScientificCalculator - [RESULT - NATURAL LOG] - 2.302585092994046
+2023-03-14 23:57:04.223 [main] INFO  org.project.ScientificCalculator - [NATURAL LOG] - 20
+2023-03-14 23:57:04.223 [main] INFO  org.project.ScientificCalculator - [RESULT - NATURAL LOG] - 2.995732273553991
+2023-03-14 23:57:04.223 [main] INFO  org.project.ScientificCalculator - Factorial =  5
+2023-03-14 23:57:04.223 [main] INFO  org.project.ScientificCalculator - RESULT - FACTORIAL = 120
+2023-03-14 23:57:04.223 [main] INFO  org.project.ScientificCalculator - Factorial =  4
+2023-03-14 23:57:04.224 [main] INFO  org.project.ScientificCalculator - RESULT - FACTORIAL = 24
+2023-03-14 23:57:04.227 [main] INFO  org.project.ScientificCalculator - [POWER of  2 TO THE ] 3
+2023-03-14 23:57:04.227 [main] INFO  org.project.ScientificCalculator - [RESULT  POWER]  8.0
+2023-03-14 23:57:04.227 [main] INFO  org.project.ScientificCalculator - [POWER of  4 TO THE ] 2
+2023-03-14 23:57:04.228 [main] INFO  org.project.ScientificCalculator - [RESULT  POWER]  16.0
+2023-03-15 00:00:34.349 [main] INFO  org.project.ScientificCalculator - [SQ ROOT] - 9
+2023-03-15 00:00:34.352 [main] INFO  org.project.ScientificCalculator - [RESULT - SQ ROOT] - 3.0
+2023-03-15 00:00:34.352 [main] INFO  org.project.ScientificCalculator - [SQ ROOT] - 16
+2023-03-15 00:00:34.352 [main] INFO  org.project.ScientificCalculator - [RESULT - SQ ROOT] - 4.0
+2023-03-15 00:00:34.353 [main] INFO  org.project.ScientificCalculator - [NATURAL LOG] - 10
+2023-03-15 00:00:34.353 [main] INFO  org.project.ScientificCalculator - [RESULT - NATURAL LOG] - 2.302585092994046
+2023-03-15 00:00:34.353 [main] INFO  org.project.ScientificCalculator - [NATURAL LOG] - 20
+2023-03-15 00:00:34.353 [main] INFO  org.project.ScientificCalculator - [RESULT - NATURAL LOG] - 2.995732273553991
+2023-03-15 00:00:34.354 [main] INFO  org.project.ScientificCalculator - Factorial =  5
+2023-03-15 00:00:34.354 [main] INFO  org.project.ScientificCalculator - RESULT - FACTORIAL = 120
+2023-03-15 00:00:34.354 [main] INFO  org.project.ScientificCalculator - Factorial =  4
+2023-03-15 00:00:34.354 [main] INFO  org.project.ScientificCalculator - RESULT - FACTORIAL = 24
+2023-03-15 00:00:34.357 [main] INFO  org.project.ScientificCalculator - [POWER of  2 TO THE ] 3
+2023-03-15 00:00:34.357 [main] INFO  org.project.ScientificCalculator - [RESULT  POWER]  8.0
+2023-03-15 00:00:34.357 [main] INFO  org.project.ScientificCalculator - [POWER of  4 TO THE ] 2
+2023-03-15 00:00:34.357 [main] INFO  org.project.ScientificCalculator - [RESULT  POWER]  16.0
+2023-03-15 00:01:45.334 [main] INFO  org.project.ScientificCalculator - [SQ ROOT] - 9
+2023-03-15 00:01:45.336 [main] INFO  org.project.ScientificCalculator - [RESULT - SQ ROOT] - 3.0
+2023-03-15 00:01:45.337 [main] INFO  org.project.ScientificCalculator - [SQ ROOT] - 16
+2023-03-15 00:01:45.337 [main] INFO  org.project.ScientificCalculator - [RESULT - SQ ROOT] - 4.0
+2023-03-15 00:01:45.338 [main] INFO  org.project.ScientificCalculator - [NATURAL LOG] - 10
+2023-03-15 00:01:45.338 [main] INFO  org.project.ScientificCalculator - [RESULT - NATURAL LOG] - 2.302585092994046
+2023-03-15 00:01:45.338 [main] INFO  org.project.ScientificCalculator - [NATURAL LOG] - 20
+2023-03-15 00:01:45.338 [main] INFO  org.project.ScientificCalculator - [RESULT - NATURAL LOG] - 2.995732273553991
+2023-03-15 00:01:45.338 [main] INFO  org.project.ScientificCalculator - Factorial =  5
+2023-03-15 00:01:45.339 [main] INFO  org.project.ScientificCalculator - RESULT - FACTORIAL = 120
+2023-03-15 00:01:45.339 [main] INFO  org.project.ScientificCalculator - Factorial =  4
+2023-03-15 00:01:45.339 [main] INFO  org.project.ScientificCalculator - RESULT - FACTORIAL = 24
+2023-03-15 00:01:45.342 [main] INFO  org.project.ScientificCalculator - [POWER of  2 TO THE ] 3
+2023-03-15 00:01:45.342 [main] INFO  org.project.ScientificCalculator - [RESULT  POWER]  8.0
+2023-03-15 00:01:45.342 [main] INFO  org.project.ScientificCalculator - [POWER of  4 TO THE ] 2
+2023-03-15 00:01:45.342 [main] INFO  org.project.ScientificCalculator - [RESULT  POWER]  16.0
+2023-03-15 00:02:14.964 [main] INFO  org.project.ScientificCalculator - [SQ ROOT] - 9
+2023-03-15 00:02:14.967 [main] INFO  org.project.ScientificCalculator - [RESULT - SQ ROOT] - 3.0
+2023-03-15 00:02:14.967 [main] INFO  org.project.ScientificCalculator - [SQ ROOT] - 16
+2023-03-15 00:02:14.967 [main] INFO  org.project.ScientificCalculator - [RESULT - SQ ROOT] - 4.0
+2023-03-15 00:02:14.968 [main] INFO  org.project.ScientificCalculator - [NATURAL LOG] - 10
+2023-03-15 00:02:14.968 [main] INFO  org.project.ScientificCalculator - [RESULT - NATURAL LOG] - 2.302585092994046
+2023-03-15 00:02:14.968 [main] INFO  org.project.ScientificCalculator - [NATURAL LOG] - 20
+2023-03-15 00:02:14.968 [main] INFO  org.project.ScientificCalculator - [RESULT - NATURAL LOG] - 2.995732273553991
+2023-03-15 00:02:14.969 [main] INFO  org.project.ScientificCalculator - Factorial =  5
+2023-03-15 00:02:14.969 [main] INFO  org.project.ScientificCalculator - RESULT - FACTORIAL = 120
+2023-03-15 00:02:14.969 [main] INFO  org.project.ScientificCalculator - Factorial =  4
+2023-03-15 00:02:14.969 [main] INFO  org.project.ScientificCalculator - RESULT - FACTORIAL = 24
+2023-03-15 00:02:14.972 [main] INFO  org.project.ScientificCalculator - [POWER of  2 TO THE ] 3
+2023-03-15 00:02:14.972 [main] INFO  org.project.ScientificCalculator - [RESULT  POWER]  8.0
+2023-03-15 00:02:14.972 [main] INFO  org.project.ScientificCalculator - [POWER of  4 TO THE ] 2
+2023-03-15 00:02:14.973 [main] INFO  org.project.ScientificCalculator - [RESULT  POWER]  16.0
