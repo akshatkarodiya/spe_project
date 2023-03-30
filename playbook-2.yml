@@ -11,4 +11,4 @@
       shell: docker pull akshat1608/speminiproject:latest
 
     - name: running container
-      shell: docker run -it -d -v /home/akshat/Projects/applogs/:/temp akshat1608/speminiproject:latest
+      shell: docker run -it -d -v /home/akshat/Projects/applogs/:/applogs akshat1608/speminiproject:latest
