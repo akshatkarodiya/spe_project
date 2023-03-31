@@ -65,6 +65,7 @@ public class ScientificCalculator {
         logger.info("[RESULT  POWER]  " + result);
         return result;
     }
+    // log functions
     public double log(int number) {
         logger.info("[NATURAL LOG] - " + number);
         double result =0;
