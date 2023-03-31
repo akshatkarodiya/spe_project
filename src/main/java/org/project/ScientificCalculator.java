@@ -84,6 +84,7 @@ public class ScientificCalculator {
         logger.info("[RESULT - NATURAL LOG] - " + result);
         return result;
     }
+    // factorial
     public int factorial(int number) {
         logger.info("Factorial =  " + number);
         int result =1,i;
